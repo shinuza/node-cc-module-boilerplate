@@ -70,4 +70,5 @@ Todo
 Notes
 -----
 
+* Get the slides: [PDF + Keynote + HTML (Somehow only works in Safari)](http://noledgedis.com/slides/extending_nodejs_with_c++.zip)
 * Node-waf uses an old waf version (v.1.5.16 linked above)
