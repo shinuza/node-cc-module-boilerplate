@@ -4,6 +4,8 @@ Node C++ module boilerplate
 This project is a gentle introduction to writing Node.js module in C++
 I aim for the minimun amount of code necessary to build a working node module.
 
+More examples to come.
+
 What does it do?
 ----------------
 
@@ -58,3 +60,14 @@ Read more
 * [Node Addons](http://nodejs.org/docs/latest/api/addons.html)
 * [Man node-waf](http://dev.man-online.org/man1/node-waf/)
 * [Waf Source, book and demos](http://code.google.com/p/waf/downloads/detail?name=waf-1.5.16.tar.bz2)
+
+Todo
+----
+
+* An example that actually does something meaningful
+* An example using [libuv](https://github.com/joyent/libuv) for non-blocking operations
+
+Notes
+-----
+
+* Node-waf uses an old waf version (v.1.5.16 linked above)
